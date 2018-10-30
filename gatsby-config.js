@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Tech Inclusive Phx',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
